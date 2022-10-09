@@ -4,6 +4,8 @@ OreSat is a completely open source CubeSat project meant for interdisciplinary t
 
 We have [Oregon's first satellite in space right now](https://www.oresat.org/satellites/oresat0), and are working on two more.
 
-Designing, building, and testing CubeSats isn't easy, but OMG we're going to space. So get involved! Even if you're not involved with PSU at all, we could use your help. **Here's how to [Get Started!](https://github.com/oresat/getting-started)**
+Designing, building, and testing CubeSats isn't easy, but OMG we're going to space. So get involved! Even if you're not involved with PSU at all, we could use your help. 
+
+**Here's how to [Get Started!](https://github.com/oresat/getting-started)**
 
 Email oresat@pdx.edu if you have any questions about ramping up or getting involved!
