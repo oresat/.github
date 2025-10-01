@@ -1,6 +1,6 @@
 # Welcome to OreSat!
 
-OreSat is a completely open source CubeSat project meant for interdisciplinary teams of students. We're at [Portland State University](https://www.pdx.edu/), but we have tons of collaborators including [Oregon State University](https://oregonstate.edu/), [University of Oregon](https://www.uoregon.edu/), [University of Maryland Baltimore County](https://esi.umbc.edu/), [University College London](https://www.ucl.ac.uk/mssl/mullard-space-science-laboratory), [Cal Poly Pomona](https://www.broncospace.com/), and many more! 
+OreSat is a completely open source CubeSat project meant for interdisciplinary teams of students. We're at [Portland State University](https://www.pdx.edu/), but we have tons of collaborators including [Oregon State University](https://oregonstate.edu/), [University of Oregon](https://www.uoregon.edu/), [University of Maryland Baltimore County](https://esi.umbc.edu/), [University College London](https://www.ucl.ac.uk/mssl/mullard-space-science-laboratory), [Cal Poly Pomona](https://www.cpp.edu/engineering/labs/bronco-space-lab.shtml), and many more! 
 
 We have [Oregon's first satellite in space right now](https://www.oresat.org/satellites/oresat0), and are working on two more.
 
